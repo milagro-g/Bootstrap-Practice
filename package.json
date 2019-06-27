@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap_practice",
+  "name": "bootstrapPractice",
   "version": "1.0.0",
   "description": "homework",
   "main": "index.js",
@@ -9,5 +9,11 @@
   "private": null,
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+     "node": ">=11.13.0"
   }
 }
