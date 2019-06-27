@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap_practice",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "repository": "https://github.com/milagro-g/Bootstrap-Practice.git",
+  "author": "Milagro Gonzalez",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=11.13.0"
+  }
+}
